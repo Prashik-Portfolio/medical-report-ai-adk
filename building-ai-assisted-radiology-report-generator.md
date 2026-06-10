@@ -104,7 +104,7 @@ The user uploads a medical image through the application.
 
 The image is sent to Gemini for multimodal analysis, where relevant observations are extracted and transformed into structured medical findings.
 
-![Google ADK Web Interface Showing AI Generated Findings](../assets/adk-web-response.png)
+![Google ADK Web Interface Showing AI Generated Findings](assets/adk-web-response.png)
 
 *Figure 1: Google ADK web interface displaying AI-generated radiology findings and impressions.*
 
@@ -126,7 +126,7 @@ The generated content is organized into a format commonly used in radiology docu
 
 The generated report can then be exported as a PDF document for documentation and review.
 
-![Generated PDF Radiology Report](../assets/generated-pdf-report.png)
+![Generated PDF Radiology Report](assets/generated-pdf-report.png)
 
 *Figure 2: Automatically generated PDF report created from AI-produced findings and impressions.*
 
